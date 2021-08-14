@@ -4,7 +4,9 @@
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=smokeycode&label=Profile%20views&color=0e75b6&style=flat)
+
 ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeycode&layout=compact)
+
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=smokeycode&show_icons=true&theme=dark&locale=en)
 ---
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
