@@ -17,5 +17,7 @@ Welcome to my Github profile!
 ![HTML](https://img.shields.io/badge/html5-F6B053.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-79D08E?style=for-the-badge&logo=atom&logoColor=white)
+![PHPstorm](https://img.shields.io/badge/PhpStorm-B517E3?style=for-the-badge&logo=PhpStorm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
