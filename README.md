@@ -1,5 +1,7 @@
 ## Hiya! I'm Will! 
 
+- **[My Discord](https://www.discordapp.com/users/257126814651121664/)**
+
 Welcome to my Github profile!
 <!--![Profile views](https://komarev.com/ghpvc/?username=smokeycode&label=Profile%20views&color=0e75b6&style=flat)
 
