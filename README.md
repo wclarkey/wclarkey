@@ -10,7 +10,7 @@ Welcome to my Github profile!
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=smokeycode&show_icons=true&theme=default&locale=en)-->
 **What I use:**
 
-![Ruby](https://img.shields.io/badge/Ruby-B61010?style=for-the-badge&logo=ruby&logoColor=white)
+<!--![Ruby](https://img.shields.io/badge/Ruby-B61010?style=for-the-badge&logo=ruby&logoColor=white)-->
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-464BE1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D0CC5C.svg?style=for-the-badge&logo=javascript&logoColor=white)
