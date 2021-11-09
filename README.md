@@ -1,25 +1,12 @@
-## Hiya! I'm Will! 
+<h1 align="center">Hiya, I'm Will!</h1>
 
-- **[My Discord](https://www.discordapp.com/users/257126814651121664/)**
+A front end website developer with knowledge in using backend technologies. Over 1 year experience in HTML, CSS and 5-6 months experience in PHP, Ruby and JavaScript.
 
-Welcome to my Github profile!
-<!--![Profile views](https://komarev.com/ghpvc/?username=smokeycode&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center">About me</h1>
 
-![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeycode&layout=compact)
+Hi, I'm Will. A frontend website developer with more interest in backend development than frontend. 😅 
+I am currently working on many projects to help set my own perfect development environment up. I am also working on a few personal projects, such as [Convert-It](https://github.com/smokeycode/Convert-It), [0penTools](https://github.com/0penTools), and [my portfolio](https://will-dev.live) which is currently under going a complete re-design and re-code!
 
-![Profile stats](https://github-readme-stats.vercel.app/api?username=smokeycode&show_icons=true&theme=default&locale=en)-->
-**What I use:**
 
-<!--![Ruby](https://img.shields.io/badge/Ruby-B61010?style=for-the-badge&logo=ruby&logoColor=white)-->
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-464BE1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-D0CC5C.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![SCSS](https://img.shields.io/badge/sass-D05CCE.svg?style=for-the-badge&logo=sass&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-5CBAD0.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-F6B053.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-79D08E?style=for-the-badge&logo=atom&logoColor=white)
-![PHPstorm](https://img.shields.io/badge/PhpStorm-B517E3?style=for-the-badge&logo=PhpStorm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+***Still needs to be finished***
