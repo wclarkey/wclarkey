@@ -2,7 +2,7 @@
 
 A front end website developer with knowledge in using backend technologies. Over 1 year experience in HTML, CSS and 5-6 months experience in PHP, Ruby and JavaScript.
 
-<h1 align="center">About me</h1>
+<h1 align="center">About Me</h1>
 
 Hi, I'm Will. A frontend website developer with more interest in backend development than frontend. 😅 
 I am currently working on many projects to help set my own perfect development environment up. I am also working on a few personal projects, such as [Convert-It](https://github.com/smokeycode/Convert-It), [0penTools](https://github.com/0penTools), and [my portfolio](https://will-dev.live) which is currently under going a complete re-design and re-code!
@@ -10,3 +10,15 @@ I am currently working on many projects to help set my own perfect development e
 
 
 ***Still needs to be finished***
+<h1 align="center">My Stats</h1>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smokeycode&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokeycode&layout=compact&hide=hack)" />
+</a>
+
+<h1 align="center">My Best Projects</h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
