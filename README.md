@@ -4,3 +4,6 @@
 
 <h1 align="center">About Me</h1>
 
+<h2 align="center">Technology I use:</h2>
+
+<h1 align="center">My projects</h1>
