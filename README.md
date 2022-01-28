@@ -1,5 +1,6 @@
 
 # Hey, I'm Will. 
+![profile views](https://komarev.com/ghpvc/?username=wclarkey&style=flat-square&color=blue&label=PROFILE+VIEWS)
 
 Welcome to my profile, I am a full stack website developer from the UK. I enjoy developing products/services that I am passionate in. 
 
