@@ -3,11 +3,15 @@
 
 Welcome to my profile, I am a full stack website developer from the UK. I enjoy developing products/services that I am passionate in. 
 
+![Profile stats](https://github-readme-stats.vercel.app/api?username=wclarkey&show_icons=true&theme=dark&locale=en)
+
 ## Languages & Technologies:
+These are the current languages that I know and use:
 
-These are the current languages that I use and the languages that I know. 
-
-### I know: 
-
-
-### I actively use:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=078df4)
+![HTML](https://img.shields.io/badge/html5-%74392.svg?style=for-the-badge&logo=html5&logoColor=white&color=f46a07)
+![CSS](https://img.shields.io/badge/css3-%2300t.svg?style=for-the-badge&logo=css3&logoColor=white&color=0a8aaa)
+![RB](https://img.shields.io/badge/ruby-%2300t.svg?style=for-the-badge&logo=ruby&logoColor=white&color=e03546)
+![JS](https://img.shields.io/badge/javascript-%2300t.svg?style=for-the-badge&logo=javascript&logoColor=black&color=e8d127)
+![SASS](https://img.shields.io/badge/sass-%2300t.svg?style=for-the-badge&logo=sass&logoColor=white&color=f97ced)
