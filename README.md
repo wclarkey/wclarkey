@@ -16,3 +16,11 @@ These are the current languages that I know and use:
 ![RB](https://img.shields.io/badge/ruby-%2300t.svg?style=for-the-badge&logo=ruby&logoColor=white&color=e03546)
 ![JS](https://img.shields.io/badge/javascript-%2300t.svg?style=for-the-badge&logo=javascript&logoColor=black&color=e8d127)
 ![SASS](https://img.shields.io/badge/sass-%2300t.svg?style=for-the-badge&logo=sass&logoColor=white&color=f97ced)
+
+## My stuff:
+- [Blog](https://blog.wclarke.me/)
+- [Portfolio](https://www.wclarke.me)
+
+## Projects:
+- [Convert-It (GitHub)](https://github.com/Convert-It)
+- [Convert-It](https://convert-it.cloud)
