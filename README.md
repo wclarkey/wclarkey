@@ -13,7 +13,6 @@ These are the current languages that I know and use:
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=078df4)
 ![HTML](https://img.shields.io/badge/html5-%74392.svg?style=for-the-badge&logo=html5&logoColor=white&color=f46a07)
 ![CSS](https://img.shields.io/badge/css3-%2300t.svg?style=for-the-badge&logo=css3&logoColor=white&color=0a8aaa)
-![RB](https://img.shields.io/badge/ruby-%2300t.svg?style=for-the-badge&logo=ruby&logoColor=white&color=e03546)
 ![JS](https://img.shields.io/badge/javascript-%2300t.svg?style=for-the-badge&logo=javascript&logoColor=black&color=e8d127)
 ![SASS](https://img.shields.io/badge/sass-%2300t.svg?style=for-the-badge&logo=sass&logoColor=white&color=f97ced)
 
