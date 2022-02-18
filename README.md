@@ -3,6 +3,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=wclarkey&style=flat-square&color=blue&label=PROFILE+VIEWS)
 
 Welcome to my profile, I am a full stack website developer from the UK. I enjoy developing products/services that I am passionate in. 
+Get in touch: will@wclarke.dev
 
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=wclarkey&show_icons=true&theme=dark&locale=en)
 
@@ -15,11 +16,3 @@ These are the current languages that I know and use:
 ![CSS](https://img.shields.io/badge/css3-%2300t.svg?style=for-the-badge&logo=css3&logoColor=white&color=0a8aaa)
 ![JS](https://img.shields.io/badge/javascript-%2300t.svg?style=for-the-badge&logo=javascript&logoColor=black&color=e8d127)
 ![SASS](https://img.shields.io/badge/sass-%2300t.svg?style=for-the-badge&logo=sass&logoColor=white&color=f97ced)
-
-## My stuff:
-- [Blog](https://blog.wclarke.me/)
-- [Portfolio](https://www.wclarke.me)
-
-## Projects:
-- [Convert-It (GitHub)](https://github.com/Convert-It)
-- [Convert-It](https://convert-it.cloud)
