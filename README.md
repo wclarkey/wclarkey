@@ -4,7 +4,7 @@
 
 Welcome to my profile, I am a full stack website developer from the UK. I enjoy developing products/services that I am passionate in. 
 
-[My portfolio](https://www.wclarke.me)
+[My portfolio](https://www.wclarke.dev)
 ## Get in touch
 **Find out more info: info@wclarke.dev**
 
