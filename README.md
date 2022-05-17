@@ -29,6 +29,12 @@ I'm a fullstack website developer from the United Kingdom. I specialise in PHP, 
 - PHP, JavaScript and CSS
 - APIs -> Integration, Use, and Development
 
+## Projects
+- Portfolio / Personal site - https://www.wclarke.dev / https://github.com/wclarkey/will.net
+- Is-a-good-dev - https://is-a-good.dev / https://github.com/is-a-good-dev/Register
+- Projects to get better with - https://github.com/wclarkedev
+- Convert It - https://github.com/Convert-It *(Unreleased)*
+
 ## My links
 Portfolio site - https://www.wclarke.dev / https://github.com/wclarkey/will.net
 
