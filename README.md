@@ -43,3 +43,11 @@ Polywork - https://changelog.wclarke.dev / https://www.polywork.com/wclarkey
 Link list - https://solo.to/wclarke
 
 Get in touch - will@wclarke.dev / info@wclarke.dev
+
+## Portfolio plans
+- WordPress integration for blog *(/blog)*
+- API / WordPress plugin for fetching latest blog posts *(Might not be integrated)*
+- Simple but effective design
+- Fully functional contact form that sends notifications to email forwarder
+- Past work / Project showcase
+- Resume / CV embedded viewer / PDF
