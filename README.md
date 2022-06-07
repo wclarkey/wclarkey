@@ -33,10 +33,9 @@ Hello, my name is William Clarke and I'm a fullstack website developer from the 
 - Portfolio / Personal site - https://www.wclarke.dev / https://github.com/wclarkey/will.net
 - Is-a-good-dev - https://is-a-good.dev / https://github.com/is-a-good-dev/Register
 - Projects to get better with - https://github.com/wclarkedev
-- Convert It - https://github.com/Convert-It *(Unreleased)*
 
 ## My links
-Portfolio site - https://www.wclarke.dev / https://github.com/wclarkey/will.net
+Portfolio site - https://www.wclarke.dev
 
 Polywork - https://changelog.wclarke.dev / https://www.polywork.com/wclarkey
 
@@ -44,7 +43,7 @@ Link list - https://solo.to/wclarke
 
 Get in touch - will@wclarke.dev / info@wclarke.dev
 
-## Portfolio plans
+<!--## Portfolio plans
 - WordPress integration for blog *(/blog)*
   - Effective security implementation
   - Useful blog posts to gain more traffic 
@@ -56,4 +55,4 @@ Get in touch - will@wclarke.dev / info@wclarke.dev
 - Resume / CV embedded viewer / PDF
 - Administration area for viewing site traffic and refferal traffic *(Might not be integrated)*
 - Eventually- Fully functional CMS to replace WordPress
-
+-->
