@@ -56,3 +56,5 @@ Get in touch - will@wclarke.dev / info@wclarke.dev
 - Administration area for viewing site traffic and refferal traffic *(Might not be integrated)*
 - Eventually- Fully functional CMS to replace WordPress
 -->
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wclarkey&theme=dark)](https://git.io/streak-stats)
