@@ -31,30 +31,15 @@ Hello, my name is William Clarke and I'm a fullstack website developer from the 
 - APIs -> Integration, Use, and Development
 
 ## Projects
-- Portfolio / Personal site - https://www.wclarke.dev / https://github.com/wclarkey/will.net
+- Portfolio / Personal site - https://www.wclarke.dev
 - Is-a-good-dev - https://is-a-good.dev / https://github.com/is-a-good-dev/Register
-- Projects to get better with - https://github.com/wclarkedev
 
 ## My links
 Portfolio site - https://www.wclarke.dev
 
-Polywork - https://changelog.wclarke.dev / https://www.polywork.com/wclarkey
+Polywork - https://changelog.wclarke.dev
 
 Link list - https://solo.to/wclarke
 
 Get in touch - will@wclarke.dev / info@wclarke.dev
-
-<!--## Portfolio plans
-- WordPress integration for blog *(/blog)*
-  - Effective security implementation
-  - Useful blog posts to gain more traffic 
-  - Consistent design from main site across to blog
-- API / WordPress plugin for fetching latest blog posts *(Might not be integrated)*
-- Simple but effective design
-- Fully functional contact form that sends notifications to email forwarder
-- Past work / Project showcase
-- Resume / CV embedded viewer / PDF
-- Administration area for viewing site traffic and refferal traffic *(Might not be integrated)*
-- Eventually- Fully functional CMS to replace WordPress
--->
 
