@@ -1,5 +1,6 @@
-
+![](https://komarev.com/ghpvc/?username=wclarkey&color=blue&style=for-the-badge)
 # 👋 Hey, I'm Will.
+
 Hello, my name is William Clarke and I'm a fullstack website developer from the United Kingdom. I specialise in PHP, HTML, CSS, and JavaScript. I am currently focusing on website security and performance analysis as well as learning more everyday. 
 
 **More about me...** I'm a 17 year old website developer, I have been developing websites for about 2 years. I have been interested in development for over 3 years. I enjoy learning new languages and starting projects that I'm passionate about. I love working on my own website however, I don't seem to have enough time during School. My job and hobby are both website development and I aspire to eventually work freelance or maybe start my own website development/design agency. 
