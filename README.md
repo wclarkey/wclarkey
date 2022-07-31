@@ -39,5 +39,6 @@ Hello, my name is William Clarke and I'm a fullstack website developer from the 
 Portfolio - https://www.wclarke.dev
 
 Links - https://will.clarke.ml
+
 ---
 **Get in Touch**: info@wclarke.dev
